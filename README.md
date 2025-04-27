@@ -14,3 +14,4 @@ It replicates the basic UI of Netflix including the landing page, navigation bar
 - Multiple rows of movie thumbnails
 - Hover effects on movie posters
 
+![image](https://github.com/user-attachments/assets/3a15cc15-009f-4573-834a-f6ddc65f6e98)
